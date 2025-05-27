@@ -348,7 +348,7 @@ u _ 2 &= \int _ {0}^{a} \rho d \rho \bigr(\int _ {0}^{2\pi} e^{-i\frac{kr}{z}\rh
 \end{aligned} 
 $$
 
-ここでベッセル関数の漸化式
+となります.ここでベッセル関数の漸化式
 
 $$
 \frac{d}{dx}\bigl(x^{n+1}J _ {n+1}(x)\bigr) = x^{n+1}J _ n(x)
@@ -373,4 +373,4 @@ u _ 2 &= \frac{2\pi}{\frac{kr}{z}}\frac{1}{\frac{kr}{z}} \int _ {0}^{\frac{kra}{
 \end{aligned}
 $$
 
-となる.
+となります.
