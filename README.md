@@ -19,7 +19,7 @@
 で表されるとき**円形開口でのフラウンフォーファー回折**は
 
 $$
-u _ 2 = \int _ {0}^{a} \rho d \rho \bigr(\int _ {0}^{2\pi} e^{-i\frac{kr}{z}\rho \cos{(\varphi-\theta)}} d \varphi \bigl) \tag{1.1}
+u _ 2 = \int _ {0}^{a} \rho d \rho \bigr(\int _ {0}^{2\pi} e^{-i\frac{kr}{z} \rho \cos{(\varphi-\theta)}} d \varphi \bigl) \tag{1.1}
 $$
 
 となる.今まで光学の勉強をしてきてこの後ろの積分は既知のものとして受け入れてきたが今回はこれについて,ベッセル関数(の積分表示)について調べた.
